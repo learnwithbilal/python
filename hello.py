@@ -20,5 +20,3 @@ friends = ["Mahmoud", "Eyhab", "Ali", "Osama",
 
 # friends = {"key01": "Bilal", "Key02": "Nour"}
 
-
-for
